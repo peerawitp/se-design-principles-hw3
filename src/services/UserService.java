@@ -4,6 +4,9 @@ import interfaces.Validator;
 import models.User;
 import validators.*;
 
+/**
+ * @author 6510405741 Peerawit Pharkdeepinyo
+ */
 public class UserService {
     public boolean register(User user) {
         Validator[] validators = {

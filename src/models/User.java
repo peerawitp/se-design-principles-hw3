@@ -1,5 +1,8 @@
 package models;
 
+/**
+ * @author 6510405741 Peerawit Pharkdeepinyo
+ */
 public class User {
     private String name;
     private String email;
